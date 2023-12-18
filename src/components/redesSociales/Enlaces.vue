@@ -1,4 +1,3 @@
-
 <template>
   <div>
     <div class="enlace">
@@ -15,7 +14,7 @@
           />
         </svg>
       </a>
-      <a href="https://github.com/guillemrubiovaron">
+      <a href="https://github.com/guillemRubioDev">
         <svg
           xmlns="http://www.w3.org/2000/svg"
           viewBox="0 0 448 512"
@@ -32,11 +31,9 @@
   </div>
 </template>
 
-<script setup>
-</script>
+<script setup></script>
 
 <style scoped>
-
 .enlace {
   width: 40px;
   position: fixed;

@@ -1,14 +1,17 @@
 <template>
-  <div><div data-aos="fade-up">
-    <div class="container-fluid principal">
-    <h2 class="sub-title">© Copyright 2022 Guillem Rubio Varón. All Rights Reserved. V:1.0.1</h2>
-    </div></div>
+  <div>
+    <div data-aos="fade-up">
+      <div class="container-fluid principal">
+        <h2 class="sub-title">
+          © Copyright 2024 Guillem Rubio Varón. All Rights Reserved. V:1.0.1
+        </h2>
+      </div>
+    </div>
   </div>
 </template>
 
-
 <style scoped>
-.principal{
+.principal {
   width: 100%;
   background-color: rgb(0, 0, 0, 0.3);
   text-align: center;
