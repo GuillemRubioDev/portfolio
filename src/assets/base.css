@@ -1,0 +1,57 @@
+
+
+*::before,
+*::after {
+ 
+  margin: 0;
+  position: relative;
+  font-weight: normal;
+}
+
+*{
+  cursor:url("./img/cursor.png"),auto !important; 
+}
+img{image-rendering: -webkit-optimize-contrast;}
+body {
+
+  transition: color 3s, background-color 0.5s;
+  line-height: 1.6;
+  font-family: Inter, -apple-system,'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+    Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  font-size: 15px;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+ 
+   
+}
+
+/* Elemento base */
+::-webkit-scrollbar {
+  width: 15px;
+  border-radius: 10px;
+  
+}
+
+::-webkit-scrollbar-track {
+  background: #292d3e;
+}
+::-webkit-scrollbar-thumb {
+  background: #e13f5a;
+  height: 20px;
+  border-radius: 10px;
+
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #e13f5aa3;
+}
+
+.presentacion_sobre_mi {
+  margin-top: 8px;
+  font-size: 16px;
+  font-weight: 400;
+  color: #b6b6b7;
+  letter-spacing: 0.5px;
+  text-align: justify;
+  z-index: 1000;
+}
