@@ -20,9 +20,11 @@ Este portfolio ha sido desarrollado con un diseño responsivo, lo que significa 
 
 ## 📸 Capturas de Pantalla
 
-![Captura de Pantalla 1](/src/assets/img/ensenyar1.png)
+![Captura de Pantalla 1](/src/assets/img/imgProyectos/proyectoPortfolio.png)
 
-![Captura de Pantalla 2](/src/assets/img/ensenyar2.png)
+![Captura de Pantalla 2](/src/assets/img/ensenyar1.png)
+
+![Captura de Pantalla 3](/src/assets/img/ensenyar2.png)
 
 ## 🛠️ Instalación y Uso
 
