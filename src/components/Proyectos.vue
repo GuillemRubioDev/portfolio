@@ -184,7 +184,7 @@
                                 <svg
                                   xmlns="http://www.w3.org/2000/svg"
                                   viewBox="0 0 576 512"
-                                   class="color-svg"
+                                  class="color-svg"
                                   alt="Enlace al video de youtube de Ecoworld"
                                   title="Enlace al video de youtube de Ecoworld"
                                 >
@@ -204,7 +204,7 @@
                         <div class="row g-0">
                           <div class="col-md-4">
                             <img
-                              src="../assets/img/imgProyectos/proyectoportfolio.png"
+                              src="../assets/img/imgProyectos/proyectoPortfolio.png"
                               class="img-fluid rounded-start"
                               alt="Foto proyecto portfolio"
                               title="Foto proyecto portfolio"
@@ -517,4 +517,3 @@ a:hover {
   text-align: start;
 }
 </style>
-
